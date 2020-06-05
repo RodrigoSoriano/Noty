@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Noty</string>
+    <string name="btn_estimacion">Estimación Rápida</string>
+    <string name="btn_periodo">Período Actual</string>
+    <string name="btn_historial">Historial</string>
+    <string name="btn_info">Información</string>
+    <string name="EstimadorRapido">Estimador Rápido</string>
+</resources>
